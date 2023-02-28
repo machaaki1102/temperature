@@ -8,6 +8,8 @@ authors = ["github <github>"]
 python = "^3.9"
 pandas = "^1.5.3"
 numpy = "^1.24.2"
+Pillow = "^9.4.0"
+plotly = "^5.13.1"
 
 [tool.poetry.dev-dependencies]
 
